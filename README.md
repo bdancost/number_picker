@@ -52,9 +52,6 @@ function sortear() {
 }
 ```
 
-## Capturas de Tela
-
-![Captura de Tela do Aplicativo](caminho/para/sua/imagem.png)
 
 ## Contribuição
 
